@@ -1893,7 +1893,7 @@ for the final secret.\"" CR>)>)
 
 "Object Manipulation"
 
-<GLOBAL FUMBLE-NUMBER 7>
+<GLOBAL FUMBLE-NUMBER 700>
 
 <GLOBAL FUMBLE-PROB 8>
 
